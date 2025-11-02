@@ -6,7 +6,7 @@ function Home() {
         curso.dev!
       </a>
     </h1>
-  )
+  );
 }
 
-export default Home
+export default Home;
